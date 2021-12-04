@@ -1,11 +1,9 @@
 {
   "name": "node-shortenurl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node-shortenurl will help you to short your URLs within your project.",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,8 +1,8 @@
 # Simple URL Shortener Within Your Project
-Shortenurl is a simple node js module for shortening your URLs within your project. You will not require any third-party service while using this package. The package creates short URLs and stores them in SQLite3 DB for you. When somebody comes to your website from that shortened URL, they will redirect to the original URL.
+Node Shortenurl is a simple node js module for shortening your URLs within your project. You will not require any third-party service while using this package. The package creates short URLs and store them in SQLite3 DB for you. When somebody comes to your website from that shortened URL, they will redirect to the original URL.
 
 ## Installation
-You can install shortenurl and its dependencies with npm: `npm install shortenurl`
+You can install node-shortenurl and its dependencies with npm: `npm install node-shortenurl`
 
 ## Usage
 
