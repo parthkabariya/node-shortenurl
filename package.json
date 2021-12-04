@@ -1,0 +1,36 @@
+{
+  "name": "node-shortenurl",
+  "version": "1.0.0",
+  "description": "node-shortenurl will help you to short your URLs within your project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Kabariya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthkabariya/node-shortenurl.git"
+  },
+  "keywords": [
+    "node-shortenurl",
+    "url",
+    "shortner",
+    "urlshortner",
+    "node",
+    "url-shorten",
+    "node-shorturl"
+  ],
+  "bugs": {
+    "url": "https://github.com/parthkabariya/node-shortenurl/issues"
+  },
+  "homepage": "https://github.com/parthkabariya/node-shortenurl#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}
