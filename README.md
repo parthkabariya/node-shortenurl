@@ -6,10 +6,10 @@ You can install node-shortenurl and its dependencies with npm: `npm install node
 
 ## Usage
 
-#### Require node-shrortenurl
+#### Require node-shortenurl
 `const shortenUrl = require('node-shortenurl')`
 
-#### Create a new Shrot URL
+#### Create a new Short URL
 ```
 shortenUrl.create(
     'https://www.mywebsite.com', //base_url of your project or website
