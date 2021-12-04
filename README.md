@@ -6,7 +6,7 @@ You can install node-shortenurl and its dependencies with npm: `npm install node
 
 ## Usage
 
-#### Require Shrortenur
+#### Require node-shrortenurl
 `const shortenUrl = require('node-shortenurl')`
 
 #### Create a new Shrot URL
@@ -53,7 +53,7 @@ shortenUrl.getAllUrls().then((results) => {
 });
 ```
 
-### Delete All Short URLs
+#### Delete All Short URLs
 
 ```
 shortenUrl.deleteAllUrls().then((results) => {
@@ -63,7 +63,7 @@ shortenUrl.deleteAllUrls().then((results) => {
 });
 ```
 
-### Delete a Particular Short URL
+#### Delete a Particular Short URL
 ```
 shortenUrl.deleteByShortUrl('http://www.mywebsite.com/sp/kwj91u1l')
 .then((result) => {
